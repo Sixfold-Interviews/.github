@@ -1,12 +1,5 @@
-## Hi there 👋
+## Sixfold Interview Testing
 
-<!--
+At Sixfold, we use a take-home test as part of the skills assessment for software engineers and other technical roles. If you're interviewing with us, we'll give you a dedicated private repository in this organization with requirements and scaffolded code. You'll submit your solution to us by opening a pull request against the `main` branch.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you have any questions about this process or need help with your take-home repository, email us at [tech-hiring@sixfold.ai](tech-hiring@sixfold.ai).
